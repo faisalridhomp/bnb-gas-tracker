@@ -1,0 +1,1 @@
+{"author":"Faisal (jackdefi.ai)","bin":{"bnb-gas":"./gas.js"},"dependencies":{"ethers":"^6.17.0"},"description":"BNB gas prices across public BSC RPCs, with free-mint affordability estimates.","engines":{"node":">=18"},"keywords":["bnb","bsc","gas","tracker"],"license":"MIT","main":"gas.js","name":"bnb-gas-tracker","scripts":{"test":"node --check gas.js"},"version":"1.0.0"}
